@@ -3,7 +3,7 @@
 ## header 2
 
 ```json
-code goes here
+json code goes here
 ```
 
 
